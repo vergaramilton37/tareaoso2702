@@ -1,0 +1,127 @@
+.main{
+    background-color: aquamarine;
+    width: 500px; height: 500px;
+    border-width: 9px;
+    border-style: solid;
+    border-color: blue;
+    
+}
+.c1{
+    background-color: red;
+    border-radius: 50px;
+    width: 50px; height: 50px;
+    position: absolute;
+    top: 67px; left: 160px;
+
+
+}
+.c2{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 150px; height: 150px;
+    position: fixed;
+    top: 110px; left: 160px;
+}
+.c3{
+    background-color: seagreen;
+    border-radius: 50%;
+    width: 50px; height: 50px;
+    position: relative;
+    top: 50px; left: 240px;
+}
+
+.c5{
+    background-color: black;
+    border-radius: 50%;
+    width:180px; height: 210px;
+    position: relative;
+    top: 195px; left: 130px;
+
+}
+.cc1{
+    background-color: black;
+    border-radius: 50%;
+    width:40px; height: 40px;
+    position: relative;
+    top: 40px; left: 90px;
+
+}
+.cc2{
+    background-color: rgb(188, 80, 80);
+    border-radius: 50%;
+    width:40px; height: 40px;
+    position: relative;
+    top: 0px; left: 20px;
+
+}
+.cc4{
+    background-color: rgb(93, 45, 141);
+    border-radius: 50%;
+    width:70px; height: 30px;
+    position: relative;
+    top: 0px; left: 40px;
+
+}
+.cc3{
+    background-color: rgb(169, 30, 30);
+    border-radius: 50%;
+    width:20px; height: 20px;
+    position: relative;
+    top: -6px; left: 66px;
+
+}
+.c6{
+    background-color: rgb(32, 18, 226);
+    border-radius: 50%;
+    width: 90px; height: 50px;
+    position: relative;
+    top: 10px; left: 280px;
+}
+.c7{
+    background-color: rgb(128, 207, 24);
+    border-radius: 50%;
+    width: 90px; height: 50px;
+    position: relative;
+    top: -35px; left: 60px;
+}
+.c8{
+    background-color: rgb(197, 26, 100);
+    border-radius: 50%;
+    width: 70px; height: 50px;
+    position: relative;
+    top: 50px; left: 90px;
+}
+.c9{
+    background-color: rgb(13, 25, 156);
+    border-radius: 50%;
+    width: 70px; height: 50px;
+    position: relative;
+    top: 0px; left: 278px;
+}
+
+.cc51{
+    background-color: rgb(16, 82, 115);
+    border-radius: 50%;
+    width: 20px; height: 20px;
+    position: relative;
+    top: -180px; left: 125px;
+}
+.c10{
+    background-color: rgb(16, 82, 115);
+    border-radius: 50%;
+    width: 20px; height: 20px;
+    position: relative;
+    top: -395px; left: 159px;
+}
+.c11{
+    background-color: rgb(74, 90, 25);
+    border-radius: 50%;
+    width: 130px; height: 160px;
+    position: relative;
+    top: -212px; left: 155px;
+}
+.n1{
+    position: relative;
+    top: -170px; left: 70px;
+}
+
