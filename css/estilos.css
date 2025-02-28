@@ -1,3 +1,4 @@
+
 .main{
     background-color: aquamarine;
     width: 500px; height: 500px;
@@ -7,7 +8,7 @@
     
 }
 .c1{
-    background-color: red;
+    background-color: maroon;
     border-radius: 50px;
     width: 50px; height: 50px;
     position: absolute;
@@ -16,14 +17,14 @@
 
 }
 .c2{
-    background-color: yellow;
+    background-color:maroon;
     border-radius: 50%;
-    width: 150px; height: 150px;
+    width: 160px; height: 170px;
     position: fixed;
-    top: 110px; left: 160px;
+    top: 100px; left: 160px;
 }
 .c3{
-    background-color: seagreen;
+    background-color: maroon;
     border-radius: 50%;
     width: 50px; height: 50px;
     position: relative;
@@ -31,7 +32,7 @@
 }
 
 .c5{
-    background-color: black;
+    background-color: maroon;
     border-radius: 50%;
     width:180px; height: 210px;
     position: relative;
@@ -39,7 +40,7 @@
 
 }
 .cc1{
-    background-color: black;
+    background-color: rgb(186, 166, 166);
     border-radius: 50%;
     width:40px; height: 40px;
     position: relative;
@@ -47,7 +48,7 @@
 
 }
 .cc2{
-    background-color: rgb(188, 80, 80);
+    background-color: rgb(152, 137, 137);
     border-radius: 50%;
     width:40px; height: 40px;
     position: relative;
@@ -55,7 +56,7 @@
 
 }
 .cc4{
-    background-color: rgb(93, 45, 141);
+    background-color: rgb(180, 175, 185);
     border-radius: 50%;
     width:70px; height: 30px;
     position: relative;
@@ -63,7 +64,7 @@
 
 }
 .cc3{
-    background-color: rgb(169, 30, 30);
+    background-color: rgb(28, 27, 27);
     border-radius: 50%;
     width:20px; height: 20px;
     position: relative;
@@ -71,28 +72,28 @@
 
 }
 .c6{
-    background-color: rgb(32, 18, 226);
+    background-color: maroon;
     border-radius: 50%;
     width: 90px; height: 50px;
     position: relative;
     top: 10px; left: 280px;
 }
 .c7{
-    background-color: rgb(128, 207, 24);
+    background-color: maroon;
     border-radius: 50%;
     width: 90px; height: 50px;
     position: relative;
     top: -35px; left: 60px;
 }
 .c8{
-    background-color: rgb(197, 26, 100);
+    background-color: maroon;
     border-radius: 50%;
     width: 70px; height: 50px;
     position: relative;
     top: 50px; left: 90px;
 }
 .c9{
-    background-color: rgb(13, 25, 156);
+    background-color: maroon;
     border-radius: 50%;
     width: 70px; height: 50px;
     position: relative;
@@ -120,8 +121,22 @@
     position: relative;
     top: -212px; left: 155px;
 }
+.c31{
+
+    background-color: black;
+    border-radius: 50%;
+    width: 20px; height: 20px;
+    position: relative;
+    top: 90px; left: 0px;
+}
+.c32{
+    background-color: black;
+    border-radius: 50%;
+    width: 20px; height: 20px;
+    position: relative;
+    top: 70px; left: -65px;
+}
 .n1{
     position: relative;
     top: -170px; left: 70px;
 }
-
